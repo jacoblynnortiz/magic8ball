@@ -1,0 +1,1 @@
+# This is a magic 8 ball I made, feel free to download a play with it :D
